@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/wehIAFF.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/5ZadkCM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
